@@ -237,7 +237,7 @@ Redis используется как вспомогательная NoSQL-БД,
 ### 1. Клонировать репозиторий
 
 ```sh
-git clone <repo-url>
+git clone https://github.com/cumensh1k/jobmatch_service
 ```
 
 ### 2. Создать `.env`
